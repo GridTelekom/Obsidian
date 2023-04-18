@@ -1,1 +1,1 @@
-[Linux Firewall Konfigürasyonu](./Linux_Sunucunun_Firewall_Konfigrasyonu/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md)
+[Linux Firewall Konfigürasyonu](pages/04.Sistem/Linux_Sunucunun_Firewall_Konfigrasyonu/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md)
