@@ -1,1 +1,0 @@
-[Linux Firewall Konfigürasyonu](pages/sistem/Linux_Sunucunun_Firewall_Konfigrasyonu/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md)
