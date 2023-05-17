@@ -5,8 +5,10 @@ process:
     markdown: true
     twig: true
 twig_first: true
+admin:
+    children_display_order: collection
 ---
 
-![hustlin_erd](Grid_27031_Sertifika_2023.pdf)
+![](Grid_27031_Sertifika_2023.pdf)
 
 {{ media['Grid_27031_Sertifika_2023.pdf'].html()|raw }}
