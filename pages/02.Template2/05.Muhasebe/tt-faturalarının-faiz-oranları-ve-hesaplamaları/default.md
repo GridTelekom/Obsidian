@@ -1,3 +1,7 @@
+---
+title: 'TT Faturalarının Faiz Oranları ve Hesaplamaları'
+---
+
 Bu döküman Türk Telekoma tarafından düzenlenmiş BTK tarafından kabul görmüş referans teklifler ve ilgili hizmete ait imzalanan sözleşmeler esas alınarak kapatılan devrelerin Türk Telekom tarafından bankada faizlendirildiğini ve ilgili faizin faturalandırıldığını tespit üzerine hazırlanmıştır. Faturaların referans teklif uyarınca vadesi geçtikten sonra nasıl faizlendirileceği ve uygulanması gereken gecikme bedellerine ait maddelere ve açıklamalara aşağıda yer verilmiştir.
 
 ## RAFMET 
