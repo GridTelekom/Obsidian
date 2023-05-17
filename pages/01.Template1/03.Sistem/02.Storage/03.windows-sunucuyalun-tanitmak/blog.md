@@ -1,4 +1,5 @@
 ---
+title: 'Windows Sunucuya Lun Tanıtmak'
 content:
     items:
         - '@self.children'
@@ -10,4 +11,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-test
+[pdf url="/griddocs/264Windows_Sunucuya_LUN_Tantmak.pdf " width="800" height="800" /]
