@@ -11,4 +11,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-[pdf url="/griddocs/264Windows_Sunucuya_LUN_Tantmak.pdf" width="100%" height="800" /]
+[pdf url="/var/www/html/grav/user/pages/griddocs/264Windows_Sunucuya_LUN_Tantmak.pdf " width="100%" height="800" /]
