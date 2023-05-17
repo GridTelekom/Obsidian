@@ -1,5 +1,5 @@
 ---
-theme: learn2
+theme: quark
 content:
     items:
         - '@self.children'
