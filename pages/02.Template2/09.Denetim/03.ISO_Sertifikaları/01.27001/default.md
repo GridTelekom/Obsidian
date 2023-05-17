@@ -6,7 +6,7 @@ process:
     twig: false
 ---
 
-![Grid_27001_Sertifika_2023.pdf](Grid_27001_Sertifika_2023.pdf?cropResize=300,300)
+![Grid_27001_Sertifika_2023.pdf](Grid_27001_Sertifika_2023.pdf)
 
 
 [Grid_27001_Sertifika_2023.pdf](Grid_27001_Sertifika_2023.pdf)
