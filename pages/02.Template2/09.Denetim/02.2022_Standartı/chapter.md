@@ -243,7 +243,8 @@ Kuruluş, bilgi güvenliği riski tedavi planını uygulayacaktır.
 Kuruluş, bilgi güvenliği riskinin sonuçları hakkında belgelenmiş bilgileri saklayacaktır  
 tedavisi. 
 #### 9. PERFORMANS DEĞERLENDİRMESİ
-     9.1 İzleme, Ölçüm, Analiz ve Değerlendirme 
+9.1 İzleme, Ölçüm, Analiz ve Değerlendirme 
+
 Kuruluş şunları belirleyecektir: 
 bilgi güvenliği süreçleri ve kontrolleri de dahil olmak üzere izlenmesi ve ölçülmesi gerekenler; 
 b ) aşağıdakileri sağlamak için izleme, ölçüm, analiz ve değerlendirme yöntemleri  
