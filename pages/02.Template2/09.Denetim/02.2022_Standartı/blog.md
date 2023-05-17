@@ -1,3 +1,7 @@
+---
+theme: learn2
+---
+
 #### 1.KAPSAM
  Bu belge, oluşturma, uygulama, bakım ve sürekli gereklilikleri belirtir organizasyon bağlamında bir bilgi güvenliği yönetim sisteminin geliştirilmesi. Bu belge ayrıca bilgi güvenliği risklerinin değerlendirilmesi ve tedavisi için gereklilikleri de içermektedir kuruluşun ihtiyaçlarına göre uyarlanmıştır. Bu belgede belirtilen gereksinimler geneldir ve tür, boyut veya nitelik ne olursa olsun tüm kuruluşlar için geçerli olması amaçlanmıştır. Herhangi biri hariç bir kuruluş aşağıdakilere uygunluk iddiasında bulunduğunda 4 ila 10. Maddelerde belirtilen şartlar kabul edilemez bu belge.
 #### 2. NORMATİF REFERANSLAR
