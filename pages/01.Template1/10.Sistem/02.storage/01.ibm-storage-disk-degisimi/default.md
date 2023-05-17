@@ -1,6 +1,6 @@
 ---
 title: 'IBM Storage Disk Değişimi'
-theme: learn2
+theme: quark
 process:
     markdown: true
     twig: false
