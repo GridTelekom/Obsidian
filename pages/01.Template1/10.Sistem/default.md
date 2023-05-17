@@ -1,4 +1,4 @@
 ---
-theme: learn2
+theme: quark
 ---
 
