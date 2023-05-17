@@ -12,7 +12,7 @@ content:
 process:
     markdown: true
     twig: false
-theme: learn2
+theme: quark
 ---
 
 ![my image](/griddocs/Netap_lun_kesme_x264.mp4)
