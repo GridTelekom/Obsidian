@@ -11,12 +11,8 @@
             "id": "e4f240fcce4e5a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,22 @@
   },
   "active": "c7b13ca82f237b10",
   "lastOpenFiles": [
+    "pages/03.Sistem/01.Linux/02.test/default.md",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.023.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.022.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.021.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.020.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.019.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.018.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.017.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.016.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.015.png",
+    "pages/03.Sistem/01.Linux/02.test/Aspose.Words.e16dec58-3c64-46a7-bedd-9470b93209a5.014.jpeg",
+    "pages/03.Sistem/01.Linux/02.test",
+    "pages/03.Sistem/01.Linux/Yeni klasör",
+    "pages/03.Sistem/01.Linux/01.Linux_Sunucunun_Firewall_Konfigrasyonu/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
+    "pages/03.Sistem/01.Linux/01.Linux_Sunucunun_Firewall_Konfigrasyonu",
+    "pages/03.Sistem/01.Linux/default.md",
     "pages/03.Sistem/02.null/test.md",
     "pages/03.Sistem/02.null/Untitled.md",
     "pages/03.Sistem/02.null",
