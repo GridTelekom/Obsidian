@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ce4ae14576d8ed98",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dda612dbbb2fbe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4f240fcce4e5a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0b2a7afe0ca292",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e7488ffbd99c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b13ca82f237b10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e752917abb487a97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b37ab8cfcc197dc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb1417c8a43e518",
+    "type": "split",
+    "children": [
+      {
+        "id": "756f7dd835bfd7bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2b175009b2a2af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "766f530fda19d768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a234d67dc3f15b6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b190ea5ba2aa83e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/03.Sistem/01.Linux/2216Linux_Sunucunun_Firewall_Konfigrasyonu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7b13ca82f237b10",
+  "lastOpenFiles": [
+    "pages/03.Sistem/02.null",
+    "pages/03.Sistem/Yeni klasör",
+    "pages/03.Sistem/01.Linux/asdasd16456456.md"
+  ]
+}
