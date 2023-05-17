@@ -9,6 +9,4 @@ admin:
     children_display_order: collection
 ---
 
-![](Grid_27031_Sertifika_2023.pdf)
-
-{{ media['Grid_27031_Sertifika_2023.pdf'].pdf()|raw }}
+[pdf url="Grid_27031_Sertifika_2023.pdf" width="100%" height="800" /]
