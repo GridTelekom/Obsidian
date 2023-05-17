@@ -11,4 +11,4 @@ admin:
 
 ![](Grid_27031_Sertifika_2023.pdf)
 
-{{ media['Grid_27031_Sertifika_2023.pdf'].html()|raw }}
+{{ media['Grid_27031_Sertifika_2023.pdf'].pdf()|raw }}
