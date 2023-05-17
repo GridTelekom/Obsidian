@@ -1,5 +1,5 @@
 ---
-theme: learn2
+theme: quark
 media_order: Grid_27031_Sertifika_2023.pdf
 process:
     markdown: true
